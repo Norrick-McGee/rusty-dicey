@@ -1,3 +1,7 @@
+use clap::Parser;
+
 fn main() {
-    println!("Hello, world!");
+    // Parse args
+    println!("Let's get Dicey");
+    // perform action based on args
 }
